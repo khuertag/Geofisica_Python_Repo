@@ -5,7 +5,7 @@ Este repositorio contiene los materiales y proyectos desarrollados en el curso d
 
 ## Objetivos del Curso
 
-El curso está diseñado para enseñar a los estudiantes cómo aplicar técnicas de programación en Python y control de versiones con Git en el contexto de la geofísica, proporcionando las habilidades necesarias para manejar, analizar y visualizar datos geofísicos de manera efectiva.
+El curso está diseñado para enseñar a los estudiantes cómo aplicar técnicas de programación en Python y control de versiones con Git en el contexto de la geofísica, proporcionando las habilidades necesarias para manejar, analizar (procesamiento e inversión) y visualizar datos geofísicos de manera efectiva.
 
 ## Temas Principales
 
@@ -22,9 +22,10 @@ Utilizamos PyGIMLi, un paquete de inversión y modelado geofísico para Python, 
 
 ## Contribuir
 
-Este curso es un esfuerzo colaborativo, y animamos a los estudiantes y profesionales interesados a contribuir al repositorio mediante la adición de nuevos proyectos, ejemplos, o mejoras en el material existente.
+Este curso es dictado por CCMaster Education, animamos a los estudiantes y profesionales interesados a contribuir al repositorio mediante la adición de nuevos proyectos, ejemplos, o mejoras en el material existente y uso de python en geofisica.
+
 
 ## Licencia
 
-Este proyecto está licenciado bajo [incluir tipo de licencia aquí], lo que permite su uso y distribución según los términos de esa licencia.
+Este proyecto está licenciado bajo [Pendiente de incluir], lo que permite su uso limitado y distribución según los términos de esa licencia.
 
